@@ -1,0 +1,10 @@
+C:\Users\Cristian\source\repos\Dry Cleaner Pickup System\Dry Cleaner Pickup System\bin\Debug\Dry Cleaner Pickup System.exe.config
+C:\Users\Cristian\source\repos\Dry Cleaner Pickup System\Dry Cleaner Pickup System\bin\Debug\Dry Cleaner Pickup System.exe
+C:\Users\Cristian\source\repos\Dry Cleaner Pickup System\Dry Cleaner Pickup System\bin\Debug\Dry Cleaner Pickup System.pdb
+C:\Users\Cristian\source\repos\Dry Cleaner Pickup System\Dry Cleaner Pickup System\obj\Debug\Dry Cleaner Pickup System.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\Dry Cleaner Pickup System\Dry Cleaner Pickup System\obj\Debug\Dry_Cleaner_Pickup_System.Properties.Resources.resources
+C:\Users\Cristian\source\repos\Dry Cleaner Pickup System\Dry Cleaner Pickup System\obj\Debug\Dry Cleaner Pickup System.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\Dry Cleaner Pickup System\Dry Cleaner Pickup System\obj\Debug\Dry Cleaner Pickup System.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Dry Cleaner Pickup System\Dry Cleaner Pickup System\obj\Debug\Dry Cleaner Pickup System.exe
+C:\Users\Cristian\source\repos\Dry Cleaner Pickup System\Dry Cleaner Pickup System\obj\Debug\Dry Cleaner Pickup System.pdb
+C:\Users\Cristian\source\repos\Dry Cleaner Pickup System\Dry Cleaner Pickup System\obj\Debug\Dry_Cleaner_Pickup_System.Form1.resources
