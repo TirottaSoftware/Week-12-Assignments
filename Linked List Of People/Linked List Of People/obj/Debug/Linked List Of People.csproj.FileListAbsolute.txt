@@ -1,0 +1,10 @@
+C:\Users\Cristian\source\repos\Linked List Of People\Linked List Of People\bin\Debug\Linked List Of People.exe.config
+C:\Users\Cristian\source\repos\Linked List Of People\Linked List Of People\bin\Debug\Linked List Of People.exe
+C:\Users\Cristian\source\repos\Linked List Of People\Linked List Of People\bin\Debug\Linked List Of People.pdb
+C:\Users\Cristian\source\repos\Linked List Of People\Linked List Of People\obj\Debug\Linked List Of People.csprojAssemblyReference.cache
+C:\Users\Cristian\source\repos\Linked List Of People\Linked List Of People\obj\Debug\Linked_List_Of_People.Form1.resources
+C:\Users\Cristian\source\repos\Linked List Of People\Linked List Of People\obj\Debug\Linked_List_Of_People.Properties.Resources.resources
+C:\Users\Cristian\source\repos\Linked List Of People\Linked List Of People\obj\Debug\Linked List Of People.csproj.GenerateResource.cache
+C:\Users\Cristian\source\repos\Linked List Of People\Linked List Of People\obj\Debug\Linked List Of People.csproj.CoreCompileInputs.cache
+C:\Users\Cristian\source\repos\Linked List Of People\Linked List Of People\obj\Debug\Linked List Of People.exe
+C:\Users\Cristian\source\repos\Linked List Of People\Linked List Of People\obj\Debug\Linked List Of People.pdb
